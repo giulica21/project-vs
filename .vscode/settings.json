@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\giuli\\Desktop\\MA_Titelseite\\myThesis.aux": true,
+        "**/c:\\Users\\giuli\\Desktop\\MA_Titelseite\\myThesis.log": true,
+        "**/c:\\Users\\giuli\\Desktop\\MA_Titelseite\\myThesis.gz": true,
+        "**/c:\\Users\\giuli\\Desktop\\MA_Titelseite\\myThesis.out": true
+    }
+}
